@@ -1,4 +1,4 @@
-{% set version = '1.0.1' %}
+{% set version = "1.0.2" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/RCSF_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/RCSF/RCSF_{{ version }}.tar.gz
-  sha256: d8fe7d3cd8b1a90d4f94e7d0c0613001a6872c48da5616b947b59e3017d81957
+  sha256: 01ae51810febb5f64cc2b88f42867c895be860b3335201edb0adb1d7343e54c2
 
 build:
   merge_build_host: True  # [win]
