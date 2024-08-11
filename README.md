@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcsf-feedstoc
 
 Home: https://CRAN.R-project.org/package=RCSF
 
-Package license: Apache 2.0
+Package license: Apache-2.0
 
 Summary: Cloth Simulation Filter (CSF) is an airborne LiDAR (Light Detection and Ranging) ground  points filtering algorithm  which is based on cloth simulation. It tries to simulate the interactions between the cloth nodes and the corresponding LiDAR points, the locations of the cloth nodes can be determined to generate an approximation of the ground surface.
 
@@ -197,5 +197,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
