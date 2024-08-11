@@ -44,7 +44,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=RCSF
-  license: Apache 2.0
+  license: Apache-2.0
   summary: Cloth Simulation Filter (CSF) is an airborne LiDAR (Light Detection and Ranging) ground  points
     filtering algorithm  which is based on cloth simulation. It tries to simulate the
     interactions between the cloth nodes and the corresponding LiDAR points, the locations
